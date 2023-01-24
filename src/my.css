@@ -1,0 +1,1067 @@
+* {
+    font-family: 'Jost', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.firstSection {
+    background-color: rgba(245, 237, 247, 1);
+    width: 100%;
+}
+
+.contain {
+    max-width: 1500px;
+    min-width: 1100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgba(237, 102, 178, 1) !important;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(40, 37, 90, 1) !important;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 30px;
+
+}
+
+.firstSection {
+    padding-top: 30px;
+    /* padding-bottom: 30px; */
+}
+
+.babySweet {
+    width: 14vw;
+}
+
+.bell {
+    width: 10%;
+}
+
+.login {
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(134, 70, 156, 1);
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.post {
+    padding: 10px 30px;
+    color: white;
+    background-color: rgba(237, 102, 178, 1);
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.firstSectionFirstPart {
+    display: grid;
+    grid-template-columns: 64% 36%;
+    margin-top: 100px;
+
+}
+
+.postingFont {
+    font-size: 70px;
+    font-weight: 800;
+    color: rgba(40, 37, 90, 1);
+    line-height: 76px;
+}
+
+.no {
+    color: rgba(134, 70, 156, 1);
+}
+
+.nanny {
+    width: 100%;
+}
+
+.baby {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(134, 70, 156, 1);
+    margin-top: 25px;
+}
+.buttonPart{
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    margin-top: 2rem;
+    /* margin-bottom: 5%; */
+}
+
+.parenting {
+    background-color: #28255A;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2% 3%;
+    /* width: 31%; */
+    margin-top: 2%;
+    width: 17rem;
+    height: 4rem;
+
+}
+
+.compan {
+    background-color: rgba(134, 70, 156, 1);
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2% 3%;
+    /* width: 31%; */
+    margin-top: 2%;
+    width: 17rem;
+    height: 4rem;
+}
+
+.nannny {
+    background-color: rgba(237, 102, 178, 1);
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2% 3%;
+    /* width: 31%; */
+    margin-top: 2%;
+    width: 17rem;
+    height: 4rem;
+}
+
+.parentin {
+    width: 2rem;
+}
+
+.searchDiv {
+    display: flex;
+    justify-content: space-around;
+    background: #FFFFFF;
+    border: 1px solid #ECEDF2;
+    box-shadow: 0px 6px 15px rgba(64, 79, 104, 0.05);
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.search {
+    width: 1vw;
+}
+
+.searchlogo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 23%;
+}
+
+.locationwork {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.Jobs {
+    background: #28255A;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: white;
+}
+
+.keywords {
+    color: rgba(105, 105, 105, 1);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.popular {
+    font-size: 25px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+}
+
+.time {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(134, 70, 156, 1);
+}
+
+.popularDiv {
+    margin-top: 25px;
+}
+
+.secondSection {
+    margin-top: 100px;
+}
+
+.works {
+    font-size: 30px;
+    font-weight: 500;
+    color: rgba(134, 70, 156, 1);
+    text-align: center;
+}
+
+.anyone {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.workDiv {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    justify-content: space-evenly;
+
+}
+
+.parent {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(134, 70, 156, 1);
+    text-align: center;
+}
+
+.register {
+    display: block;
+    margin: 0 auto;
+    width: 6vw;
+}
+
+.employers {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    text-align: center;
+}
+
+.registerDiv {
+    margin-top: 100px;
+}
+
+.thirdSectionMainPart {
+    margin-top: 50px;
+}
+
+.thirdSection {
+    margin-top: 100px;
+}
+
+.thirdSectionPart {
+    display: grid;
+    grid-template-columns: 48% 48%;
+    justify-content: space-between;
+
+}
+
+.box {
+    background: #FFFFFF;
+    border: 1px solid #ECEDF2;
+    border-radius: 8px;
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: flex-start; */
+    /* box-shadow: 3px 5px grey; */
+    padding: 30px;
+    margin-top: 25px;
+}
+
+.childCare {
+    width: 4vw;
+}
+
+.taker {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(40, 37, 90, 1);
+    display: inline-block;
+}
+
+.feature {
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(52, 168, 83, 1);
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.save {
+    width: 1vw;
+    float: right;
+}
+
+.takerDiv {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    width: 100%;
+    margin-left: 5%;
+
+
+}
+
+.bagPart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.locations {
+    width: 1vw;
+}
+
+.bags {
+    width: 1.5vw;
+}
+
+.locationPart {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    width: 37%;
+}
+
+.locationsPart {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    width: 26%;
+}
+
+.newYork {
+    margin-left: 5%;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(105, 105, 105, 1);
+}
+
+.fullTime {
+    background-color: #F5EDF7;
+    border-radius: 50px;
+    color: rgba(134, 70, 156, 1);
+    padding: 4px 30px;
+    margin-top: 25px;
+
+}
+
+.urgent {
+    background-color: rgba(249, 171, 0, 0.15);
+    border-radius: 50px;
+    color: rgba(249, 171, 0, 1);
+    padding: 4px 30px;
+    margin-top: 25px;
+    margin-left: 2%;
+
+}
+
+.load {
+    background-color: #86469C;
+    border-radius: 8px;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    padding: 7px 30px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.fourSection {
+    background-color: rgba(245, 237, 247, 1);
+    width: 100%;
+    margin-top: 100px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+
+}
+
+.reviewBox {
+    background-color: #FFFFFF;
+    border: 1px solid #ECEDF2;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.reviewBoxs {
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 1px solid #ECEDF2;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.mainBox {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    justify-content: space-around;
+}
+
+.carousel {
+    margin-top: 5%;
+    /* background: #EEE; */
+}
+
+.carousel-cell {
+    width: 30%;
+
+    height: 400px;
+    margin-right: 10px;
+    /* background: #8C8; */
+    border-radius: 5px;
+    counter-increment: carousel-cell;
+}
+
+.carousel-cell.is-selected {
+    /* background: #ED2; */
+}
+
+/* cell number */
+.carousel-cell:before {
+    display: block;
+    text-align: center;
+    /* content: counter(carousel-cell); */
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+}
+
+.awesomeDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(134, 70, 156, 1);
+}
+
+.text {
+    width: 2vw;
+}
+
+.jobHunt {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 7%;
+}
+
+.jobHunts {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(105, 105, 105, 0.4);
+    margin-top: 7%;
+}
+
+.customer {
+    width: 5vw;
+}
+
+.customerPart {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-top: 7%;
+}
+
+.customerParts {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+    margin-top: 7%;
+}
+
+.jenkin {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(40, 37, 90, 1);
+}
+
+.richard {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(32, 33, 36, 0.4);
+}
+
+.designer {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(237, 102, 178, 1);
+}
+
+.designers {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(237, 102, 178, 0.4);
+}
+
+.flickity-page-dots .dot {
+    color: rebeccapurple !important;
+
+
+}
+
+.logoDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5%;
+
+}
+
+.amazon {
+    width: 5vw;
+}
+
+.jobDiv {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    margin-top: 7%;
+    justify-content: center;
+
+}
+
+.work {
+    width: 100%;
+    margin-top: 8%;
+}
+
+.million {
+    font-size: 40px;
+    font-weight: 500;
+    color: rgba(134, 70, 156, 1);
+}
+
+.position {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+}
+
+.tick {
+    display: flex;
+    align-items: center;
+    /* width: 55%; */
+    /* justify-content: space-between; */
+    margin-top: 20px;
+}
+
+.started {
+    padding: 5px 20px;
+    background-color: #ED66B2;
+    border-radius: 8px;
+    color: white;
+    margin-top: 5%;
+
+
+
+}
+
+.millionDiv {
+    width: 60%;
+}
+
+.survival {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    margin-left: 3%;
+}
+
+.carousels {
+    margin-top: 5%;
+
+    /* background: #EEE; */
+}
+
+.carousel-cells {
+    width: 30%;
+
+    height: 500px;
+    margin-right: 10px;
+    /* background: #8C8; */
+    border-radius: 5px;
+    counter-increment: carousel-cell;
+}
+
+.carousel-cells.is-selected {
+    /* background: #ED2; */
+}
+
+/* cell number */
+.carousel-cells:before {
+    display: block;
+    text-align: center;
+    /* content: counter(carousel-cell); */
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+}
+
+.candidateBox {
+    background-color: #FFFFFF;
+    border: 1px solid #ECEDF2;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.florenceDiv {
+    margin-left: 5%;
+}
+
+.reviewsPart {
+    align-items: center;
+    display: flex;
+    /* justify-content: space-between; */
+    /* width: 90%; */
+    /* margin-top: 7%; */
+
+}
+
+.year {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    /* justify-content: space-between; */
+    /* margin-left: 1rem; */
+}
+
+.years {
+
+    /* margin-left: 1rem; */
+}
+
+.bullet {
+    margin-left: 1rem;
+}
+
+.experience {
+    margin-left: 1rem;
+}
+
+.florence {
+    color: rgba(237, 102, 178, 1);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.cardSecond {
+    display: flex;
+    align-items: center;
+    width: 79%;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+
+.york {
+    display: flex;
+    align-items: center;
+
+}
+
+.hourly {
+    display: flex;
+    align-items: center;
+}
+
+.locationimg {
+    width: 1rem;
+}
+
+.hourlyimg {
+    width: 2rem;
+}
+
+.yorkFont {
+    margin-left: 1rem;
+}
+
+.fulltime {
+    background-color: #F5EDF7;
+    border-radius: 50px;
+    color: rgba(134, 70, 156, 1);
+    padding: 4px 20px;
+    margin-top: 25px;
+
+}
+
+.jobSeeker {
+    background-color: rgba(52, 168, 83, 1);
+    border-radius: 50px;
+    color: white;
+    padding: 4px 20px;
+    margin-top: 25px;
+
+}
+
+.timerDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.font {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(119, 131, 143, 1);
+    margin-top: 5%;
+}
+
+.activePart {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20%;
+}
+
+.profile {
+    background-color: rgba(40, 37, 90, 1);
+    color: white;
+    padding: 1% 5%;
+}
+
+.today {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(134, 70, 156, 1);
+
+}
+
+.sevenSection {
+    display: grid;
+    background-color: rgba(40, 37, 90, 1);
+    grid-template-columns: 40% 30%;
+    align-items: center;
+    border-radius: 20px;
+    justify-content: space-between;
+    padding: 2% 5% 0% 5%;
+    margin-top: 100px;
+}
+
+.babySit {
+    width: 20%;
+}
+
+.recruit {
+    color: rgba(255, 255, 255, 1);
+    font-size: 30px;
+    font-weight: 500;
+
+}
+
+.advertise {
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 3%;
+}
+
+.now {
+    background-color: #ED66B2;
+    border-radius: 8px;
+    padding: 2% 5%;
+    color: white;
+    margin-top: 5%;
+}
+
+.sitDiv {
+    width: 22rem;
+}
+
+.babyimg {
+    width: 21rem;
+    float: right;
+    margin-top: -20%;
+}
+
+.line {
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 90%;
+}
+
+.eightSection {
+    margin-top: 100px;
+
+}
+
+.footerlist {
+    display: grid;
+    grid-template-columns: 21% 19% 19% 19% 19%;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.babySwee {
+    width: 65%;
+}
+
+.call {
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 5%;
+}
+
+.number {
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(134, 70, 156, 1);
+}
+
+.north {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 1%;
+}
+
+.candidate {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(134, 70, 156, 1);
+    /* margin-top: 30% ; */
+
+
+}
+
+.candidateList {
+    margin-top: 20%;
+}
+
+.candidateList li {
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 4%;
+}
+
+.nineSection {
+    background-color: rgba(40, 37, 90, 1);
+    padding: 5%;
+    margin-top: 100px;
+
+}
+
+.nineSectionPart {
+    display: grid;
+    grid-template-columns: 24% 23% 23% 23%;
+    justify-content: space-around;
+    /* margin-top: 100px; */
+}
+
+.companiess {
+    color: white;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.specific {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+
+.system {
+    font-size: 18px;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 1);
+}
+
+.operating {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+
+.systemDiv {
+    margin-top: 7%;
+}
+
+.longBox {
+    background-color: #FFFFFF;
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 36px;
+    height: 100%;
+    padding: 1%;
+
+}
+
+.longBox1 {
+    background-color: rgba(134, 70, 156, 1);
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 36px;
+    height: 100%;
+    padding: 1%;
+
+}
+
+.armor1 {
+    display: block;
+    margin: 0 auto;
+    width: 10rem;
+    margin-top: -20%;
+}
+
+.basic {
+    font-size: 23px;
+    font-weight: 800;
+    color: rgba(40, 37, 90, 1);
+    text-align: center;
+}
+
+.core {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(2, 3, 59, 1);
+    text-align: center;
+}
+
+.standards {
+    font-size: 23px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.includeds {
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+.hrLine {
+    background-color: black;
+    height: 1px;
+    margin-top: 10%;
+}
+.hrLines {
+    background-color: black;
+    height: 1px;
+    margin-top: 23%;
+}
+
+.yes {
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.one {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 10%;
+}
+
+.three {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    color: white;
+    margin-top: 10%;
+}
+
+.free {
+    text-align: center;
+    font-size: 31px;
+    font-weight: 800;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 10%;
+}
+
+.frees {
+    text-align: center;
+    font-size: 11px;
+    font-weight: 400;
+    color: rgba(40, 37, 90, 1);
+    margin-top: 10%;
+}
+
+.month {
+    text-align: center;
+    font-size: 31px;
+    font-weight: 800;
+    color: white;
+    margin-top: 10%;
+}
+
+.months {
+    text-align: center;
+    font-size: 11px;
+    font-weight: 400;
+    color: white;
+    margin-top: 10%;
+}
+
+.sign {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 36px;
+    border: 1px solid rgba(237, 102, 178, 1);
+    color: rgba(237, 102, 178, 1);
+    display: block;
+    margin: 10% auto;
+    font-size: 23px;
+    font-weight: 800;
+    padding: 1% 5%;
+}
+
+.buyNow {
+    margin-top: 10%;
+    background-color: rgba(237, 102, 178, 1);
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 36px;
+    border: 1px solid rgba(237, 102, 178, 1);
+    color: white;
+    display: block;
+    margin: 10% auto;
+    font-size: 23px;
+    font-weight: 800;
+    padding: 1% 5%;
+}
+
+.buysNow {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 36px;
+    border: 1px solid rgba(2, 3, 59, 1);
+    color: rgba(2, 3, 59, 1);
+    display: block;
+    margin: 10% auto;
+    font-size: 23px;
+    font-weight: 800;
+    padding: 1% 5%;
+}
+
+.recommended {
+    background-color: #ED66B2;
+    border-radius: 12px;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    padding: 1% 5%;
+    margin-top: 3%
+    ;
+}
